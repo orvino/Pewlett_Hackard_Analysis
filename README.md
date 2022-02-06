@@ -30,9 +30,11 @@ Utilizing the criteria of employees born in 1965, the potential mentee list is 1
 
 ### Additional Queries
 Creating a new query to further investigate the gap, the two charts below compare the counts by titles of the retiring and mentor eligible employees. There is a reasonable ratio of titles between the two tables implying that matching mentor to mentee is scalable under the right criteria. However, it is concerning that no managers met the mentor eligibility requirement. Further discussion is need to fill the manager gap.
+
 <img width="177" alt="Screen Shot 2022-02-06 at 4 46 11 PM" src="https://user-images.githubusercontent.com/91889241/152704737-5ffca02d-8539-4d0f-8aab-5f87568b111e.png"><img width="166" alt="Screen Shot 2022-02-06 at 4 45 08 PM" src="https://user-images.githubusercontent.com/91889241/152704743-29e5648f-e038-4986-aaa8-c5d7224bd13c.png">
 
 To move forward with the approximately 1,500 potential mentee list as a pilot mentoring program, the list of more than 90,000 retiring employees was narrowed to close the gap of matching mentor to mentee. The potential mentor list was narrowed by setting the criteria for being around age 35 when they started their current job title resulting in 5,521 employees that could be matched with the 1,549 mentees, which significantly narrows the mentor-mentee gap.
+
 <img width="167" alt="Screen Shot 2022-02-06 at 4 43 44 PM" src="https://user-images.githubusercontent.com/91889241/152704758-9e27d555-2f2c-415f-853b-53c6dde7a292.png"><img width="166" alt="Screen Shot 2022-02-06 at 4 45 08 PM" src="https://user-images.githubusercontent.com/91889241/152704760-850521d5-51a6-4a00-a340-00ca24d28685.png">
 
 
